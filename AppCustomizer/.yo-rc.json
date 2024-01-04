@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.0",
+    "libraryName": "connect-app-customizer",
+    "libraryId": "4ff0dd91-f9d3-46d0-9179-80f09b458e3d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ConnectAppCustomizer",
+    "solutionShortDescription": "ConnectAppCustomizer description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

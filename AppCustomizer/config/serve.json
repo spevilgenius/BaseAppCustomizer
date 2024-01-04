@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://legodan.sharepoint.com/sites/LegoCreations",
+      "customActions": {
+        "66c6b838-c27e-472b-aaa4-8c5fd0979b34": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "connectBranding": {
+      "pageUrl": "https://legodan.sharepoint.com/sites/LegoCreations",
+      "customActions": {
+        "66c6b838-c27e-472b-aaa4-8c5fd0979b34": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}

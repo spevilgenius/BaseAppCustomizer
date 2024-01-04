@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="ConnectBranding"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="66c6b838-c27e-472b-aaa4-8c5fd0979b34"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

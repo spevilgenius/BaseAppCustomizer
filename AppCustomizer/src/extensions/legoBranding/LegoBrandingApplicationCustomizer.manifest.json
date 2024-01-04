@@ -1,0 +1,10 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-extension-manifest.schema.json",
+  "id": "66c6b838-c27e-472b-aaa4-8c5fd0979b34",
+  "alias": "Branding-Lego",
+  "componentType": "Extension",
+  "extensionType": "ApplicationCustomizer",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false
+}

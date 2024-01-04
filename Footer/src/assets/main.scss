@@ -1,0 +1,20 @@
+ @import '../../node_modules/primeflex/primeflex.min.css';
+ /* @import '../../node_modules/primevue/resources/themes/fluent-light/theme.css'; */
+ 
+ .footer {
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: "[theme: themePrimary, default: #0078d7]";
+    height: 60px;
+    width: 1050px;
+    margin: 0 auto;
+ }
+
+ .footerDetails {
+    display: block;
+    font-size: 11px;
+    font-family: "Arial";
+    color: #069;
+    font-weight: 700;
+    height: 18px;
+ }
