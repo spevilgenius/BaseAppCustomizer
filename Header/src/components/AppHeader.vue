@@ -44,7 +44,8 @@ export default defineComponent({
   <div class="mainHeader" data-automationid="SiteHeader" data-layoutoption="2">
     <div class="logoCell">
       <a class="logoWrapper" :href="SiteUrl" aria-label="Lego Creations home" data-navigationcomponent="SiteHeader">
-        <img class="logoImg" alt="" aria-hidden="true" src="https://mindpetal.sharepoint.com/SiteAssets/images/lego1.jpg">
+        <!-- <img class="logoImg" alt="" aria-hidden="true" src="https://mindpetal.sharepoint.com/SiteAssets/images/lego1.jpg"> -->
+        <img class="logoImg" alt="" aria-hidden="true" src="https://legodan.sharepoint.com/sites/LegoCreations/SiteAssets/img/lego1.jpg">
       </a>
     </div>
     <div class="titleSubcell">

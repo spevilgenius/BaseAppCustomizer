@@ -5359,7 +5359,7 @@ const _hoisted_4 = /* @__PURE__ */ createBaseVNode("img", {
   class: "logoImg",
   alt: "",
   "aria-hidden": "true",
-  src: "https://mindpetal.sharepoint.com/SiteAssets/images/lego1.jpg"
+  src: "https://legodan.sharepoint.com/sites/LegoCreations/SiteAssets/img/lego1.jpg"
 }, null, -1);
 const _hoisted_5 = [
   _hoisted_4
